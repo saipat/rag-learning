@@ -61,3 +61,7 @@ Answer: The colors of the rainbow, also known as the visible spectrum, are typic
 7. Violet
 
 These colors can be remembered using the acronym ROYGBIV.
+
+ New Question: 
+Question: What is the capital of USA?
+Answer: The capital of the United States is Washington, D.C.
